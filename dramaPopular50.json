@@ -1,0 +1,26 @@
+{
+	"version": "1",
+	"releaseDate": "2014.10.10",
+	"sentenceList":[
+		 {"question":"이 터널 어디로 나가지?", 
+		 "answer":"Where does this tunnel lead out?"},
+		 {"question":"저아이 아빠랑 닮았네.", 
+		 "answer":"That kid takes after his dad."},
+		 {"question":"내 기분이 좀 쳐지네.", 
+		 "answer":"My feeling a little run down."},
+		 {"question":"그 남자 당신보다 먼저 가게 해줘요. 바빠보이네요.", 
+		 "answer":"Let him go ahead of you. He seems to be busy."},
+		 {"question":"다른차가 갑자기 서서, 내가 뒤에서 박았어. 모두 내잘못 인가?", 
+		 "answer":"I hit from the back when others stop suddenly, all my fault?"},
+		 {"question":"나는 길을따라 천천히 걸었어.", 
+		 "answer":"I walked slowly along the road."},
+		 {"question":"나랑 함께 갈래?", 
+		 "answer":"Would you come along with me?"},
+		 {"question":"사실 개네들 몇몇과는 잘 지내지 못하고 있어.", 
+		 "answer":"I actually don't get along with some of them."},
+		 {"question":"그냥 둘러 보는거야.", 
+		 "answer":"I am just looking around."},
+		 {"question":"이거 전부 내가 만들었어", 
+		 "answer":"I made this all by myself."}	 	 
+	]
+}
