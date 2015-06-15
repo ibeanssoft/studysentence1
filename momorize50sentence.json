@@ -1,0 +1,26 @@
+{
+	"version": "1",
+	"releaseDate": "2014.10.10",
+	"sentenceList":[
+		 {"question":"그의손은 깨끗한거과 거리가 멀다.(깨끗하지 않다)", 
+		 "answer":"His hands were far from clean."},
+		 {"question":"그녀는 막 서울에서 돌아왔다", 
+		 "answer":"She has just returned from Seoul."},
+		 {"question":"그녀는 주로 어디에서 노니?", 
+		 "answer":"Where does she usally hang out?"},
+		 {"question":"걔는 내 스타일 아니에요.", 
+		 "answer":"He's not my type."},
+		 {"question":"너는 오직 그일에서 빠져나가려고 하고 있잖아.", 
+		 "answer":"You are just trying to get out of the work."},
+		 {"question":"시간 다 썻네. 나 시간 다 됬어.", 
+		 "answer":"I have run out of time."},
+		 {"question":"우리 시간이 없어.", 
+		 "answer":"We are out of time."},
+		 {"question":"회의는 다음주 금요일로 연기되었다.", 
+		 "answer":"The meeting was put off to next Friday."},
+		 {"question":"그들은 끝까지 충실했다.", 
+		 "answer":"They were faithful to the end."},
+		 {"question":"버터는 우유로 부터 만들어진다.", 
+		 "answer":"Butter is made out of milk."}	 
+	]
+}
