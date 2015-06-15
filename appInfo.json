@@ -1,7 +1,7 @@
 {
 	"version": "1",
 	"releaseDate": "2015.07.10",
-	"questionList":[
+	"challengeList":[
 		
 		 {"name":"영어 문장 학습", 
 		 "webId":"momorize50sentence",
