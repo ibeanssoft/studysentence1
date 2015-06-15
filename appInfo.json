@@ -1,0 +1,13 @@
+{
+	"version": "1",
+	"releaseDate": "2015.07.10",
+	"questionList":[
+		
+		 {"name":"영어 문장 학습", 
+		 "webId":"momorize50sentence",
+		 "url":"https://raw.githubusercontent.com/ibeanssoft/studySentence/master/momorize50sentence.json"},
+		 {"name":"미드 인기 문장", 
+		 "webId":"dramaPopular50",
+		 "url":"https://raw.githubusercontent.com/ibeanssoft/studySentence/master/dramaPopular50.json"}	 
+	]
+}
